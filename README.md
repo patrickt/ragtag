@@ -3,6 +3,8 @@ a command-line tool for editing iTunes tags
 
 ## What on earth is this?
 It's a command-line tool for running find-and-replace operations on your iTunes tags. 
+You select a set of files in iTunes, tab to Terminal, and run some ragtag commands
+and ragtag matches the regex and updates the track name appropriately.
 It also strips whitespace and can fix track numbering issues. You can think of it as
 a sort of `sed` and `awk` for iTunes.
 
