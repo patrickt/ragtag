@@ -22,3 +22,8 @@ tags by hand, and I wanted to write at least something in Swift. So, here we are
 # change a tag other than the name
 ./ragtag --tag artist --replace "Prince" "The Artist"
 ```
+
+## Are you going to add to this in the future? 
+
+Sadly enough, yes. I still want to implement proper song-title capitalization 
+heuristics. THe algorithm is interesting.
